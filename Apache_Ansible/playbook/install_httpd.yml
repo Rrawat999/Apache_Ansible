@@ -1,0 +1,4 @@
+---
+ - hosts: httpserver
+   roles:
+   - /etc/ansible/Apache_Ansible/roles/deploy_apache
