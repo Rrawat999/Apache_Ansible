@@ -1,4 +1,4 @@
 ---
- - hosts: httpserver
+ - hosts: DevOps
    roles:
    - /etc/ansible/Apache_Ansible/roles/uninstall_apache
