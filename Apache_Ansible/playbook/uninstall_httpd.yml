@@ -1,4 +1,4 @@
 ---
  - hosts: DevOps
    roles:
-      - { role: roles/uninstall_apache }
+   - /var/lib/jenkins/workspace/Ansible_Project/Apache_Ansible/roles/uninstall_apache }
